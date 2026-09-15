@@ -107,3 +107,97 @@ This is basically the least square fitting.
 
 ![alt text](image-9.png)
 
+> It's not a technique for structure determination. It is technique for structure refinement.
+> Basically it is a modification of the starting guess
+> If you start from wild guess you will not have refinement right.
+
+## Requirements of Rietveld Method
+
+* High quality experimental diffraction pattern
+* A structure model that makes physical and chemical
+sense
+* Suitable peak and background functions
+
+## Principle of Rietveld Refinement
+
+![alt text](image-10.png)
+
+## Goal
+
+![alt text](image-11.png)
+
+
+![alt text](image-12.png)
+
+> And you need to tweak independently to look at the refinement
+
+
+## Structure Factor
+
+![alt text](image-13.png)
+
+> Also you need to about these.
+
+
+![alt text](image-14.png)
+
+## Where to Get Crystal Structures
+
+![alt text](image-15.png)
+
+## Lorentz Polarization factor
+
+![alt text](image-16.png)
+
+## Modeling Preferred Orientation
+
+![alt text](image-17.png)
+
+
+## The March distribution function
+
+![alt text](image-18.png)
+
+## Additional Intensity factors
+
+![alt text](image-19.png)
+
+## Profile Shape function
+
+![alt text](image-20.png)
+
+> Little tail and narrow peak
+> Extended tail
+
+
+![alt text](image-21.png)
+
+![alt text](image-22.png)
+
+## Peak width
+
+![alt text](image-23.png)
+
+## Background
+
+![alt text](image-24.png)
+
+```txt
+I mean this is all done by a program. It is very difficult. It must have been difficult to Rietveld to do it and that is why he wrote code to do it. So that you do not have to worry about the Mathematics part of it. You can just enter the parameters and get a good fit. And this is what most people do. They do not go around solving these equations. The equations are being just shown just to understand what exactly goes on in a program.
+```
+
+## Quality of Refinement
+
+![alt text](image-25.png)
+
+![alt text](image-26.png)
+
+The goal is to minimize Rwp and hence chi square
+
+## Why the Rietveld refinement is widely used?
+
+![alt text](image-27.png)
+
+> You will learn better after the demo
+
+
