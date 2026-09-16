@@ -30,11 +30,11 @@ Question 1- Why Crystal have regular external shapes?
 
 ![alt text](image-32.png)
 
-> Kepler not only studied astronomy but also studied structure of crystal.
+> Kepler not only studied astronomy but also studied structure of crystal.  
 
-> All metallurgists in the morning should show Agarbatti to Robert Hook
-> Micrographia book. His book micrographia was the origin of microscopical study of materials.
-> They started guessing.
+> All metallurgists in the morning should show Agarbatti to Robert Hook  
+> Micrographia book. His book micrographia was the origin of microscopical study of materials.  
+> They started guessing.  
 > Atom were not even fashionable words those days, but they started guessing. But there must be something inside
 
 > The tool came much later
@@ -57,17 +57,17 @@ In our algebra unknown is X.
 
 ![alt text](image-36.png)
 
-> He used 2 If's
-> Diffraction grating for light was a well established thing.
+> He used 2 If's  
+> Diffraction grating for light was a well established thing.  
 > Till x-ray came, nobody thought that copper is a crystal or something. well there was speculations but it was not established fact. Crystal meant something like snowflake or other naturally grown crystal gemstones and so on which has nice external shape.
 
 > And only way to check this will be experiment. Nature can be kind or nature can be unkind. Nature was very very kind to laue's.
-> He did get a diffraction
-> If diffraction was not there then neigher of these questions was answered
-> If diffraction was there both the questions was answered.
-> If you don't have diffraction may be X rays are not wave
-> Or diffraction is not there because crystals are not periodic.
-> Or crystals are periodic but x-rays are not waves
+> He did get a diffraction  
+> If diffraction was not there then neigher of these questions was answered  
+> If diffraction was there both the questions was answered.  
+> If you don't have diffraction may be X rays are not wave  
+> Or diffraction is not there because crystals are not periodic.  
+> Or crystals are periodic but x-rays are not waves  
 
 He was lucky
 
