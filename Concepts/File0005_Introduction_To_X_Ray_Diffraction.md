@@ -6,8 +6,10 @@ Link - https://www.youtube.com/watch?v=Z5aCuGxUPpI
 
 ```txt
 The experimental technique which establishes crystallography is X-ray diffraction. 
-Infact for such a successful experimental technique for crystallography , the crystallography was given the adjective X-ray.
-Of course there are other diffraction - neutron diffraction, electron diffraction and so on but the basic technique for crystallography is X-ray diffraction
+Infact for such a successful experimental technique for crystallography , 
+the crystallography was given the adjective X-ray.
+Of course there are other diffraction - neutron diffraction, electron diffraction 
+and so on but the basic technique for crystallography is X-ray diffraction
 ```
 
 ![alt text](image-28.png)
@@ -28,7 +30,7 @@ Question 1- Why Crystal have regular external shapes?
 
 ![alt text](image-32.png)
 
-> Kepler also studied not only studied astronomy but also studied structure of crystal.
+> Kepler not only studied astronomy but also studied structure of crystal.
 
 > All metallurgists in the morning should show Agarbatti to Robert Hook
 > Micrographia book. His book micrographia was the origin of microscopical study of materials.
@@ -78,9 +80,13 @@ With modern techinique
 ![alt text](image-38.png)
 
 ```txt
-So the x-ray beam is coming here. And the crystal is somewhere here. X-ray is coming along the laser direction.
-Then if the crystal was doing nothing and only transmission, then only a transmitted block should have been there, transmitted a spot. 
-But then after interacting with the crystal, beams are going in diffraction and being recorded on a photographic film which is is coinciding with the plane of the screen here
+So the x-ray beam is coming here. And the crystal is somewhere here. 
+X-ray is coming along the laser direction.
+Then if the crystal was doing nothing and only transmission, 
+then only a transmitted block should have been there, transmitted a spot. 
+But then after interacting with the crystal, beams are going in 
+diffraction and being recorded on a photographic film which is is 
+coinciding with the plane of the screen here
 ```
 
 > And once after the success of the experiment, 2 great questions were answered in positive that X-rays are waves and crystals are periodic arrangement of atoms. This started the modern crystallography.
