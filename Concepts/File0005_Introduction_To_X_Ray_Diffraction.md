@@ -188,4 +188,31 @@ coinciding with the plane of the screen here
 > बोलते ही नहीं कि ये ज़्यादा important है ।  
 > Specularly reflected means like mirror or mirror like reflected from this plane.   
 > This is the real part of the Bragg's law. this is Bragg's genius. This is the Nobel prize of Bragg.  
->
+
+
+
+![alt text](image-53.png)
+
+> How did Bragg got Nobel prize, by calling diffraction a reflection  
+> नाम बदल तो नोबेल Prize मिल जाएगा ।  
+> He didn't discover new  
+> He didnot discover X-ray  
+> He didn't discover diffraction, Laue did.  
+> Bragg got the nobel prize for calling hte diffraction a reflection  
+> He thought of diffraction in a new way, looking at it as a reflection from crystal/lattice plane.  
+> That changed the whole world  
+> This way of looking made it simple to solve the crystal structure  
+> That is why Laue although discovered diffraction, did not solve even a single crystalline structure  
+> and Bragg started solving the crystal structure one after another. So X-ray diffraction as a tool for crystal structure was established by Bragg.  
+> Infact Laue in the very first paper on the diffraction in the analysis of the diffraction pattern, he mixed up and he got the wrong crystal structure.  
+> So he couldn't solve because of his complicated way of looking at it.  
+> He couldn't solve the crystal structure which actually got him the Nobel prize  
+> Of course it was corrected  
+> Being wrong is not that bad.
+
+![alt text](image-54.png)
+
+> William Lawrence Bragg and William Henry Bragg. Father and Son team.  
+> They shared the noble prize. Although separate nobel prize has been given to father and son but not shared  
+
+![alt text](image-55.png)
