@@ -20,7 +20,7 @@ For example, Match! explicitly supports `.dat` in multiple contexts. `.dat` can 
 
 ---
 
-# 2. GSAS-II is especially relevant to FC Cubic
+# 2. GSAS-II
 
 GSAS-II's import workflow is also interesting.
 
@@ -30,7 +30,7 @@ This is a very important concept:
 
 > **The data file and its metadata may be separate things.**
 
-That aligns nicely with your FC Cubic requirement around:
+That aligns nicely with your project requirement around:
 
 `metadata.all.json`
 
@@ -38,9 +38,7 @@ and metadata extraction.
 
 So tomorrow, if metadata comes up, you can say something like:
 
-> **“I noticed from looking at GSAS-II that experimental information such as wavelength may not always be reliably contained in the primary measurement file, and metadata can sometimes be provided separately. So I wanted to understand whether FC Cubic considers the measurement file and metadata as separate but related upload artifacts.”**
-
-That sounds much more domain-aware than simply asking "what metadata do we need?"
+> **“I noticed from looking at GSAS-II that experimental information such as wavelength may not always be reliably contained in the primary measurement file, and metadata can sometimes be provided separately. So I wanted to understand whether project considers the measurement file and metadata as separate but related upload artifacts.”**
 
 ---
 
@@ -70,11 +68,11 @@ versus
 Screenshot / plot / photograph → information for scientist
 ```
 
-That distinction could become useful in FC Cubic.
+That distinction could become useful in Project.
 
 You can say:
 
-> **“I came across the distinction between scientific detector images and ordinary reference images. So I wanted to clarify whether FC Cubic's upload layer is intended to preserve both analysis data and supporting/reference files, even if the latter cannot be directly consumed by an analysis engine.”**
+> **“I came across the distinction between scientific detector images and ordinary reference images. So I wanted to clarify whether Project's upload layer is intended to preserve both analysis data and supporting/reference files, even if the latter cannot be directly consumed by an analysis engine.”**
 
 That is a very good client question.
 
@@ -84,7 +82,7 @@ That is a very good client question.
 
 Match! says that if an imported diffraction data file doesn't contain all the information required—for example, **wavelength**—the user is asked to provide the missing experimental details manually. ([crystalimpact.com][3])
 
-This maps extremely well to your FC Cubic requirement:
+This maps extremely well to your Project requirement:
 
 ```text
 Metadata available?
@@ -98,7 +96,7 @@ Manual composition / information
 
 So your flow isn't unreasonable from a domain perspective.
 
-But you may want to clarify whether FC Cubic will eventually have a broader **manual experimental-details fallback**, rather than only manual composition.
+But you may want to clarify whether Project will eventually have a broader **manual experimental-details fallback**, rather than only manual composition.
 
 ---
 
@@ -153,7 +151,7 @@ Profex/BGMN supports formats from many manufacturers, including:
 
 ([Profex XRD][5])
 
-This is useful because it tells you that **FC Cubic's current extension list is not a universal crystallography file list**. It's a product-specific subset.
+This is useful because it tells you that **Project's current extension list is not a universal crystallography file list**. It's a product-specific subset.
 
 So if someone asks:
 
@@ -161,7 +159,7 @@ So if someone asks:
 
 you don't need to argue that it should be supported. You can say:
 
-> **“`.raw` is commonly used by several XRD instrument ecosystems, but I understand that the current FC Cubic requirement only specifies `.xy`, `.csv`, `.dat`, `.txt`, and `.fxye` for XRD pattern files. I wanted to understand whether the current list is intentionally limited to this phase or whether additional instrument formats are planned.”**
+> **“`.raw` is commonly used by several XRD instrument ecosystems, but I understand that the current Project requirement only specifies `.xy`, `.csv`, `.dat`, `.txt`, and `.fxye` for XRD pattern files. I wanted to understand whether the current list is intentionally limited to this phase or whether additional instrument formats are planned.”**
 
 That's a very reasonable QA/product question.
 
@@ -184,7 +182,7 @@ For example, crystallographic structure information can include:
 
 The IUCr also provides validation infrastructure around CIF. ([International Union of Crystallography][6])
 
-So your FC Cubic decision to treat:
+So your Project decision to treat:
 
 ```text
 .cif → CIF / Phase
@@ -240,20 +238,4 @@ GSAS-II and Match! give you a good domain basis for asking this. ([Advanced Phot
 
 > **“The current requirement lists a limited set of pattern extensions. Are formats such as `.raw`, `.xrdml`, `.brml`, etc. intentionally out of scope for now, or should we expect them in future?”**
 
-Those formats are used by established XRD tools. ([crystalimpact.com][1])
-
-
----
-
-
-1. **GSAS-II Help — Import Menu**
-   Focus on the sections around image import and metadata. ([Advanced Photon Source][2])
-
-2. **Match! — Diffraction Data File Formats**
-   This is probably the **single most useful page for your current discussion** because it shows how many formats exist and how the same extension can represent different things. ([crystalimpact.com][1])
-
-3. **Match! — Experimental Details**
-   Read this for the wavelength/metadata/manual-entry concept. ([crystalimpact.com][3])
-
-4. **IUCr — CIF**
-   Read this so you can confidently explain why CIF is a different class of crystallographic information rather than simply another pattern file. ([International Union of Crystallography][6])
+Those formats are used by established XRD tools
