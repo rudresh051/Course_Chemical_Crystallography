@@ -216,3 +216,54 @@ coinciding with the plane of the screen here
 > They shared the noble prize. Although separate nobel prize has been given to father and son but not shared  
 
 ![alt text](image-55.png)
+
+> They declared 2013 celebrating Crystallography year.
+
+![alt text](image-56.png)
+
+> This was the Braggs first part and the important part that the diffracted beam appears to be specularly reflected from a set of crystal lattice plane.  
+> Part2 is very very simple diffraction calculation  
+
+
+![alt text](image-57.png)
+
+> Once you accept that the diffracted beam is a reflection from the plane, what will be the relation of the wavelength and the theta and the D spacing?  
+
+![alt text](image-58.png)
+
+> As I told you, unfortunatley the first part is undervalued  
+> Means not emphasized so much as second part, which is given as Bragg's law  
+> 2nd part is immediate automatic if you accept the 1st part  
+> 1st part is not immediate, not autoamtic, has no derivation. It has imagination  
+
+![alt text](image-59.png)
+
+> For constructive interference, integer multiple of wavelength, we know from inteference physics.
+
+![alt text](image-60.png)
+
+![alt text](image-61.png)
+
+> I am assuming a cubic crystal  
+
+![alt text](image-62.png)
+
+> Using above relationship, one can write as  
+
+![alt text](image-63.png)
+
+> This disappearnace of N causes enormous problem to beginning students.  
+> Above is the final useful form of Bragg's law where N is not there  
+> But you should know that N is in a way there but is absorbed in d  
+
+![alt text](image-65.png)
+
+![alt text](image-64.png)
+
+> Essentially what we are saying is that crystal is there, incoming beam and you got a diffracted beam.  
+> And we want to name that diffracted beam  
+> Bragg showed that you can find a plane from which it is appearing to be reflected. So name it according to the plane from which it is reflected  
+> means it is reflected from the HKL plane, however there is one arbitrariness that
+
+
+![alt text](image-66.png)
