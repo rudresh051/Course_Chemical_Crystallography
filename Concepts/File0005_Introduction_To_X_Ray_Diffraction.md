@@ -262,8 +262,85 @@ coinciding with the plane of the screen here
 
 > Essentially what we are saying is that crystal is there, incoming beam and you got a diffracted beam.  
 > And we want to name that diffracted beam  
-> Bragg showed that you can find a plane from which it is appearing to be reflected. So name it according to the plane from which it is reflected  
+> Bragg showed that you can find a plane from which it is appearing to be reflected. So name it according to the plane from which it is reflected. So I will call this diffracted beam as hkl beam.  
 > means it is reflected from the HKL plane, however there is one arbitrariness that
 
 
+
+> The path difference between these 2 could have been 1 lambda
+
+![alt text](image-67.png)
+
+> Then I will call it - the first order diffracted beam
+
+![alt text](image-68.png)
+
+> Some other beam, path difference will be 2 lambda  
+> So you have nth order reflection from hkl plane  
+> Depending on this N you define the order of the diffraction or order of reflection
+
+
 ![alt text](image-66.png)
+
+> Here N is always 1, so this is always first order reflection
+> So if you have a second order reflection from 111, that will be the first interpretation. Instead of calling that we will say this is the first order from 222  
+> So it's just a language, there is no physics involved in this.  
+> There is just this algebra, little bit of algebra that you bring this N here and call d-hkl as d-nh-kl-nl  
+> And what was appearing to be the Nth order, you call it the first order  
+> But can we not decide whether it is the nth order or a first order - No.  
+> Because the experimental tool which is available to us is this lambda and this theta.  
+
+
+![alt text](image-69.png)
+
+> So we see beam is coming in which direction ? so i know theta  
+> And whether I assume nth order reflection from N-hkl plane or first order reflection from nh-kl-nl plane we well get the see theta  
+> So this particular beam, the theta beam which is the physical thing can be given either this name or that name.  
+> Physicist sometimes choose this and confuse more people in their books  
+> But crystallographers you will find those X-ray crystallographers who are actually into solving crystal structure will never try to use N lambda. They will use this form for all reflections listed as first order  
+
+
+![alt text](image-70.png)
+
+> Now to get the X-ray first you have to generate it for X-ray diffraction  
+> The way to generate it is that you impinge high energy electrons on to a taget metal.  
+> So when high energy electrons impinge a target metal they give you X-rays of different wavelenght  
+> This is what happens in the so called X-ray tube of the part of your experiment  
+> So every X-ray diffractometer will come with an X-ray tube generator  
+> And in that tube the target will be one of these metals.  
+> Copper is quite common, so if copper is there then wavelength which you will get out of it is 1.54 Angstrom.  
+> These are called the characteristic wavelength  
+
+
+![alt text](image-71.png)
+
+> Now depending on ...  
+> See lambda = 2dSin(theta)  
+> So in your experiments you can involve either variation of lambda or theta  
+> D you can't do anything. D is fixed because that is defined by the crystal which you are studying  
+> So experimentalist can play with Lambda, experimentalist can play with theta  
+> So based on this different kinds of experimental setups have been defined  
+
+
+![alt text](image-72.png)
+
+
+> In the laue method, lambda is variable. So they use white radiation - mixed wavelength not characteristic wavelength.  
+> In rotating crystal method, lambda is fixed and theta is variable  
+> In powder method, which is most common and which is what I will discuss in more detail in the remaining part of the lecture - has fixed lambda and variable theta  
+> But the way they vary theta in the rotating crystal method - they actually rotate the crystal to vary theta  
+> In powder method, nothing is rotating, simply because you have a polycrystalline powder. each grain is differently oriented, so that is what giving you a variable theta  
+
+## Powder Method
+
+![alt text](image-73.png)
+
+> So here X-ray will come and hit them at different angles so theta becomes variable.  
+> In the rotation crystal method there is a fixed axis of rotation  
+> There is only one axes about which the crystal is rotated
+
+
+![alt text](image-74.png)
+
+
+
