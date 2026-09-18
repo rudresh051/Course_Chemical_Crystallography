@@ -384,7 +384,45 @@ on which the electrons generated here
 somewhere there in the bottom will come up hit it x-ray will be produced 
 and will be taken into this defractometer so that incoming defract beam 
 will be there and then using the detector at different angles 
-you will catch the diffracted beam at different angles we'll get
+you will catch the diffracted beam at different angles we'll get something like this
 ```
+
+![alt text](image-77.png)
+
+> transmitted beam is fixed by the geometry infact.  
+> Yo will never try to actually take your detector to the transmission line  
+> because the transmitted beam is very strong  
+> And your detector will burn  
+
+![alt text](image-78.png)
+
+> this is your sample. This is your X-ray source  
+> There is a transmitted beam but transmitted beam is extremely strong  
+> In fact most of the energy is there in the transmitted beam and detector is not designed for that  
+> Diffracted beam is extremely weak. So detector is designed for this  
+> Before supplying the instrument to you they calibrate  
+> Without this transmitted beam, they know this.  
+> You set this to be zeor so that when detector is there you know this angle  
+> Which becomes 2theta  
+> So will be labeled as 30 degree. on your computer output.  
+> In olden days one used to see this 30 degree and all on the goniometer but now  
+> on the computer output you will get 30 degree  
+> In the modern diffractometer will not allow for safety reason to save your detector.  
+> In olden days safety was not there and sometimes student actually bring it down to zero detector  
+> Detector will burn then  
+
+![alt text](image-79.png)
+
+![alt text](image-80.png)
+
+> So you will get different intensities  
+> See Intensity has peaks. Each peak is being labeled  
+> 110, 200, 220.  
+> This is where they are identifying that from which plane this is appearing to be reflected.  
+> From which plane this is appearing to be reflected  
+> This is what is called indexing of the diffraction pattern  
+> So when you have done indexing, then actually you have solved the structure.  
+> In a way indexing is very very important part.  
+
 
 
