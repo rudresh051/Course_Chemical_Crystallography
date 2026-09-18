@@ -339,8 +339,52 @@ coinciding with the plane of the screen here
 > In the rotation crystal method there is a fixed axis of rotation  
 > There is only one axes about which the crystal is rotated
 
+> Now let's look at little bit of schematic detail of the powder diffractometry  
+> So you have a incident beam, you have a sample and you have a transmitted beam  
 
 ![alt text](image-74.png)
 
+> And you will have one or more diffracted beam. Diffracted beam 1, diffracted beam 2.  
+> You have to catch these diffracted beam to get your diffraction pattern  
+> To catch that there is an X-ray detector  
+> An X-ray detector moves in a circle around the sample.  
+> Sample is at the center of the circle and X-ray detector will move.  
+> By Bragg's law, you know that the angle between transmitted beam and the diffracted beam is always 2theta  
+> This is very simple  
+> Sometimes students are not able to answer this question - And why are you plotting intensity against 2theta.  
+> You will not see in any other graph that the x variable is multiplied by 2. Makes no sense  
+
+![alt text](image-75.png)
+
+> But in this case it makes sense because  
+> According to Bragg's law, since it is a reflection, the incoming theta and outgoing theta is same from the plane  
+> But you are not seeing the plane  
+> Plane is not there expermimental to see 
+> So you cannot measure by any goniometer or something that here is the plane and here is my theta  
+> So experimentalist cannot see the plane  
+> That is whythis 2theta concept came  
+> Experimentalist can see where is the transmitted beam gooing. It is a transmitted beam, he can catch that  
+> And he can catch the diffracted beam and then by geometry  
+> The angle between transmitted and diffracted beam becomes 2theta  
+> That is why you plot intensity as a function of 2theta  
+> So as the detector is moving, it is catching the beam  
+> How much the detector has moved gives you 2theta  
+> And how much intensity it is catching gives you high or peaks  
+> so that gives you the diffraction pattern intensity vs 2theta which you get from these diffractometers  
+
+![alt text](image-76.png)
+
+```txt
+so that is actual deflectometer 
+so this is the circle on which detector is moving
+here is the detector here is the sample  
+here inside so in the center of this Circle 
+this is the X-ray generation tube so there will be metal Target here 
+on which the electrons generated here 
+somewhere there in the bottom will come up hit it x-ray will be produced 
+and will be taken into this defractometer so that incoming defract beam 
+will be there and then using the detector at different angles 
+you will catch the diffracted beam at different angles we'll get
+```
 
 
