@@ -85,5 +85,45 @@ Link - https://www.youtube.com/watch?v=Ye8A97gzXPc&list=PLZO_dTWSnBCqITbd88ymG7p
 
 ![alt text](image-100.png)
 
-> 
+> First click on ED PCR
 
+![alt text](image-101.png)
+
+> Click here for new data  
+
+![alt text](image-102.png)
+
+![alt text](image-103.png)
+
+![alt text](image-104.png)
+
+![alt text](image-105.png)
+
+> And then last one is  
+
+![alt text](image-106.png)
+
+![alt text](image-107.png)
+
+![alt text](image-108.png)
+
+![alt text](image-109.png)
+
+> Some user don't want atomic positions, he just want lattice parameters, so that option is with constant scale factor  
+> then the contribution information
+
+![alt text](image-110.png)
+
+![alt text](image-111.png)
+
+> How will you write the space group
+
+![alt text](image-112.png)
+
+![alt text](image-113.png)
+
+![alt text](image-114.png)
+
+> I took the background 6 coefficient polynomial  
+
+![alt text](image-115.png)
