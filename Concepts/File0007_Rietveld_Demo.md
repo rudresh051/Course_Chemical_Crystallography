@@ -127,3 +127,48 @@ Link - https://www.youtube.com/watch?v=Ye8A97gzXPc&list=PLZO_dTWSnBCqITbd88ymG7p
 > I took the background 6 coefficient polynomial  
 
 ![alt text](image-115.png)
+
+![alt text](image-116.png)
+
+![alt text](image-117.png)
+
+![alt text](image-118.png)
+
+![alt text](image-119.png)
+
+> Save in the format of .pcr  
+
+![alt text](image-120.png)
+
+## Sequence of varying the parameters
+
+![alt text](image-121.png)
+
+> Scale factor - This will scale the intensity  
+> Atomic positions - One by one very carefully  
+> Atomic occupancy - If you need. e.g. where gallium and Iron can be mixed  
+
+![alt text](image-122.png)
+
+> Above is one of the image after refinement  
+> Now you have all things - Lattice parameters, atomic positions in correct way. Refined values  
+> of lattice parameters and atomic positions of your materials  
+> Then you are ready to generate your structure  
+
+![alt text](image-123.png)
+
+> Above are some mathematicals equations  
+> More correctly, the algebraic mathematics and all equations are taken from the manual of FullProf software. Not hidden anything here  
+
+## VESTA Software
+
+> It's a free and very easy way to generate your structure  
+> From structure you can get a lot of information like - Bond length, bond angle, distortion, index, average bond length and you can see the type of polyhedrals be here  
+
+![alt text](image-124.png)
+
+![alt text](image-125.png)
+
+![alt text](image-126.png)
+
+![alt text](image-127.png)
