@@ -424,5 +424,11 @@ you will catch the diffracted beam at different angles we'll get something like 
 > So when you have done indexing, then actually you have solved the structure.  
 > In a way indexing is very very important part.  
 
+## Systematic absences
 
+> Now look something called systematic absences. which is very important  
 
+![alt text](image-81.png)
+
+> Let us look at BCC crystal  
+> 
