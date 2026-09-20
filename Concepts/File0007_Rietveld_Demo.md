@@ -61,6 +61,7 @@ Link - https://www.youtube.com/watch?v=Ye8A97gzXPc&list=PLZO_dTWSnBCqITbd88ymG7p
 
 * X'Pert High scrore plus
   * https://www.malvernpanalytical.com/en/products/category/software/x-ray-diffraction-software/highscore-with-plus-option
+  * https://www.malvernpanalytical.com/en/support/product-support/software/highscore-software-update
 * GSAS - http://www.ccpl4.ac.uk/solution/gsas/
 * Rietan
   * https://ma.issp.u-tokyo.ac.jp/en/app/378
