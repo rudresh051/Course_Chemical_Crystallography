@@ -32,3 +32,13 @@ Link - https://www.youtube.com/watch?v=XrKf7lE-i2I&list=PLZO_dTWSnBCqITbd88ymG7p
 ![alt text](image-92.png)
 
 ![alt text](image-93.png)
+
+![alt text](image-128.png)
+
+> Contrast is a dimensionless number  
+
+![alt text](image-129.png)
+
+![alt text](image-130.png)
+
+![alt text](image-131.png)
