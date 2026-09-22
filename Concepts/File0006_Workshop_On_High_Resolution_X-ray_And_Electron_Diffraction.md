@@ -42,3 +42,9 @@ Link - https://www.youtube.com/watch?v=XrKf7lE-i2I&list=PLZO_dTWSnBCqITbd88ymG7p
 ![alt text](image-130.png)
 
 ![alt text](image-131.png)
+
+![alt text](image-132.png)
+
+## Rayleigh Criterion
+
+![alt text](image-133.png)
