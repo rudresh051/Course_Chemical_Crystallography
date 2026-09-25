@@ -48,3 +48,9 @@ Link - https://www.youtube.com/watch?v=XrKf7lE-i2I&list=PLZO_dTWSnBCqITbd88ymG7p
 ## Rayleigh Criterion
 
 ![alt text](image-133.png)
+
+## What is meant by High-Resolution?
+
+![alt text](image-134.png)
+
+![alt text](image-135.png)
