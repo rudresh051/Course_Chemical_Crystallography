@@ -94,3 +94,11 @@ Link - https://www.youtube.com/watch?v=XrKf7lE-i2I&list=PLZO_dTWSnBCqITbd88ymG7p
 ![alt text](image-151.png)
 
 ![alt text](image-152.png)
+
+## Information from Diffraction Patterns
+
+![alt text](image-153.png)
+
+![alt text](image-154.png)
+
+![alt text](image-155.png)
