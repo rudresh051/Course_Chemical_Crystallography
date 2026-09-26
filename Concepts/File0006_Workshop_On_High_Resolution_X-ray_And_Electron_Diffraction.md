@@ -102,3 +102,27 @@ Link - https://www.youtube.com/watch?v=XrKf7lE-i2I&list=PLZO_dTWSnBCqITbd88ymG7p
 ![alt text](image-154.png)
 
 ![alt text](image-155.png)
+
+![alt text](image-156.png)
+
+![alt text](image-157.png)
+
+![alt text](image-158.png)
+
+![alt text](image-159.png)
+
+![alt text](image-160.png)
+
+![alt text](image-161.png)
+
+![alt text](image-162.png)
+
+![alt text](image-163.png)
+
+## Superlattices
+
+![alt text](image-164.png)
+
+![alt text](image-165.png)
+
+![alt text](image-166.png)
