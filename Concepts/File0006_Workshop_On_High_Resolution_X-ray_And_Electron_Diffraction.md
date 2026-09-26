@@ -58,3 +58,13 @@ Link - https://www.youtube.com/watch?v=XrKf7lE-i2I&list=PLZO_dTWSnBCqITbd88ymG7p
 ![alt text](image-136.png)
 
 ![alt text](image-137.png)
+
+![alt text](image-138.png)
+
+![alt text](image-139.png)
+
+## Bright Field and Dark Field Images
+
+![alt text](image-140.png)
+
+![alt text](image-141.png)
