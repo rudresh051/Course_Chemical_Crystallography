@@ -119,3 +119,25 @@ Website - https://pubs.rsc.org/
 
 ![alt text](image-191.png)
 
+## XRD Pattern of α-Ni-Co(OH)₂@NS
+
+![alt text](image-192.png)
+
+![alt text](image-193.png)
+
+## The Diffraction Pattern of Synthesized CA-PANI Nano Composite
+
+![alt text](image-194.png)
+
+## Graphene Nanoribbons @Vanadium Oxide Nanostrips
+
+![alt text](image-195.png)
+
+![alt text](image-196.png)
+
+## X-ray Safety
+
+* X-rays are extremely dangerous and must be handle with caution.
+* They are dangerous because they penetrates the human body and breaks up the molecules of
+DNA. Also the skin will be sloughed like a sunburn.
+* However after the breaking of DNA molecules, if they join in wrong way, it can lead to cancer.
