@@ -95,25 +95,19 @@ This systematic angular shift is called **zero offset** (or zero-point error).
 So conceptually:
 
 $$
-\boxed{2\theta_{\text{measured}}
-=
-2\theta_{\text{true}}+\text{zero offset}}
+\boxed{2\theta_{\text{measured}} = 2\theta_{\text{true}}+\text{zero offset}}
 $$
 
 Therefore:
 
 $$
-\boxed{2\theta_{\text{corrected}}
-=
-2\theta_{\text{measured}}-\text{zero offset}}
+\boxed{2\theta_{\text{corrected}} = 2\theta_{\text{measured}}-\text{zero offset}}
 $$
 
 For our example:
 
 $$
-30.100^\circ-0.100^\circ
-=
-30.000^\circ
+30.100^\circ-0.100^\circ = 30.000^\circ
 $$
 
 ---
@@ -312,9 +306,7 @@ $$
 then:
 
 $$
-2\theta_{\text{corrected}}
-=
-40.250-0.120
+2\theta_{\text{corrected}} = 40.250-0.120
 $$
 
 $$
@@ -406,11 +398,7 @@ weight = true weight + scale zero error
 you have:
 
 $$
-\boxed{2\theta_{\text{measured}}
-=
-2\theta_{\text{true}}
-+
-\text{angular zero error}}
+\boxed{2\theta_{\text{measured}} = 2\theta_{\text{true}} + \text{angular zero error}}
 $$
 
 ---
