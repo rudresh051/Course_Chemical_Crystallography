@@ -10,7 +10,7 @@ $$
 
 For example, you might get:
 
-| Measured \(2\theta\) | Intensity |
+| Measured $(2\theta$) | Intensity |
 | -------------------: | --------: |
 |               20.00° |       120 |
 |               20.01° |       135 |
@@ -35,10 +35,10 @@ $$
 where:
 
 * \(n\) = diffraction order
-* \(\lambda\) = X-ray wavelength
+* $(\lambda$) = X-ray wavelength
 * \(d\) = interplanar spacing
-* \(\theta\) = Bragg angle
-* \(2\theta\) = angle usually shown by the XRD instrument
+* $(\theta$) = Bragg angle
+* $(2\theta$) = angle usually shown by the XRD instrument
 
 So if the measured angle is wrong, the calculated \(d\)-spacing will also be wrong.
 
@@ -88,7 +88,7 @@ $$
 
 The instrument is effectively saying:
 
-> "Everything is shifted 0.100° toward higher \(2\theta\)."
+> "Everything is shifted 0.100° toward higher $(2\theta$)."
 
 This systematic angular shift is called **zero offset** (or zero-point error).
 
