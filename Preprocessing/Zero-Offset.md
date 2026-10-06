@@ -561,24 +561,20 @@ $$
 
 where:
 
-* \(x\) = \(2\theta\)
-* \(\delta\) = zero offset
+* \(x\) = $(2\theta$)
+* $(\delta$) = zero offset
 
 So:
 
 $$
 \boxed{
-2\theta_{\text{corrected}}
-=
-2\theta_{\text{measured}}
--
-\delta
-}
+2\theta_{\text{corrected}} = 2\theta_{\text{measured}} -
+\delta}
 $$
 
 For example:
 
-| Measured \(2\theta\) | Zero offset | Corrected \(2\theta\) |
+| Measured $(2\theta$) | Zero offset | Corrected $(2\theta$) |
 | -------------------: | ----------: | --------------------: |
 |               20.15° |      +0.10° |                20.05° |
 |               30.10° |      +0.10° |                30.00° |
