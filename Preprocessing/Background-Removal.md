@@ -203,10 +203,7 @@ Then background-corrected intensity is simply:
 
 $$
 \boxed{
-I_{\text{corrected}} = I_{\text{measured}}
--
-I_{\text{background}}
-}
+I_{\text{corrected}} = I_{\text{measured}} - I_{\text{background}} }
 $$
 
 For 24°:
