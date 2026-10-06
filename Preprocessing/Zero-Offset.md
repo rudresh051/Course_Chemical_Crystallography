@@ -272,11 +272,8 @@ $$
 Then:
 
 $$
-\text{zero offset}
-=
-2\theta_{\text{observed}}
--
-2\theta_{\text{known}}
+\text{zero offset} =
+2\theta_{\text{observed}} - 2\theta_{\text{known}}
 $$
 
 Therefore:
