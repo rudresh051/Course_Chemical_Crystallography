@@ -26,8 +26,7 @@ A useful model is:
 
 $$
 \boxed{
-I_{\text{measured}}(2\theta)
-=
+I_{\text{measured}}(2\theta) =
 I_{\text{Bragg}}(2\theta)
 +
 I_{\text{background}}(2\theta)
@@ -204,8 +203,7 @@ Then background-corrected intensity is simply:
 
 $$
 \boxed{
-I_{\text{corrected}}
-=
+I_{\text{corrected}} =
 I_{\text{measured}}
 -
 I_{\text{background}}
@@ -265,8 +263,7 @@ and then calculate:
 
 $$
 \boxed{
-I_{\text{corrected}}(2\theta)
-=
+I_{\text{corrected}}(2\theta) =
 I_{\text{measured}}(2\theta)-B(2\theta)
 }
 $$
@@ -476,8 +473,7 @@ Your second type is:
 Instead of representing the background using powers of \(x\), we represent it using cosine functions:
 
 $$
-B(x)
-=
+B(x) =
 a_0
 +
 a_1\cos(x)
@@ -736,8 +732,7 @@ Instead of saying:
 we can mathematically model:
 
 $$
-I_{\text{observed}}
-=
+I_{\text{observed}} =
 B(2\theta)
 +
 \sum_i P_i(2\theta)
