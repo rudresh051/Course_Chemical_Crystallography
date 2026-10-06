@@ -1145,8 +1145,7 @@ You know exactly:
 Then add noise:
 
 $$
-I_{\text{measured}}(x)
-=
+I_{\text{measured}}(x) =
 I(x)+\epsilon(x)
 $$
 
