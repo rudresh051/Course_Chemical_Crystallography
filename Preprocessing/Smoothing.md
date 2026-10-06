@@ -1221,21 +1221,13 @@ Think of the XRD signal as:
 And the central mathematical idea is:
 
 $$
-\boxed{
-I_{\text{measured}}(2\theta)
-=
-I_{\text{signal}}(2\theta)
-+
-I_{\text{noise}}(2\theta)
-}
+\boxed{I_{\text{measured}}(2\theta) = I_{\text{signal}}(2\theta) + I_{\text{noise}}(2\theta)}
 $$
 
 Smoothing attempts to estimate:
 
 $$
-\boxed{
-I_{\text{signal}}(2\theta)
-}
+\boxed{I_{\text{signal}}(2\theta)}
 $$
 
 without destroying the scientifically meaningful diffraction peaks.
