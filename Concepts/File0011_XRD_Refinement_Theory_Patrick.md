@@ -30,4 +30,10 @@ Link - https://www.youtube.com/watch?v=nK-O8VYFVxw
 
 ## General Rietveld Approach
 
+1. Calculate positions/intensities
+
 ![alt text](image-216.png)
+
+2. Convolute with profile shapes
+
+![alt text](image-217.png)
