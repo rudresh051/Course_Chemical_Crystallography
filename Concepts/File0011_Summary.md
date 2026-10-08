@@ -1,5 +1,7 @@
 # XRD Refinement Theory
 
+Link - https://www.youtube.com/watch?v=nK-O8VYFVxw
+
 ### 1. Core idea
 
 **Rietveld refinement is an inverse problem:**

@@ -37,3 +37,11 @@ Link - https://www.youtube.com/watch?v=nK-O8VYFVxw
 2. Convolute with profile shapes
 
 ![alt text](image-217.png)
+
+3. Generate Background
+
+![alt text](image-218.png)
+
+4. Sum intensities
+
+![alt text](image-219.png)
