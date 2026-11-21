@@ -93,3 +93,50 @@ Ans - (1 0 1)  (Plane is parallel to Y)
 
 ![alt text](image-239.png)
 
+> To find out miller Indices of a plane take an origin where no planes are passing
+
+Question 2  
+
+![alt text](image-240.png)
+
+find intercept directly
+
+So Weiss indices are (4,2, ∞)
+
+so take reciprocal now
+
+(1/4 1/2 1/∞ )
+
+mulitply each number by 4  
+
+![alt text](image-241.png)
+
+![alt text](image-242.png)
+
+Now whatever h k l or miller indices you found out, that basically **represents set of prallel planes**
+
+some have bar on the number. It basically represents negative number  
+
+## Interplanar Distance
+
+![alt text](image-243.png)
+
+in above diagram [1 0 0] is representing not representing a single plane. it's representing a set of parallel plane.  
+
+![alt text](image-244.png)
+
+in cubic a, b and c are equal so I have taken LCM
+
+![alt text](image-245.png)
+
+d(hkl) is basically distance between parallel plane
+
+Question 3
+
+![alt text](image-246.png)
+
+![alt text](image-247.png)
+
+![alt text](image-248.png)
+
+
